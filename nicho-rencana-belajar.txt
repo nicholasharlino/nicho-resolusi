@@ -1,0 +1,4 @@
+Rencana Belajar Nicho
+- JavaScript
+- Strucktur Data & Algoritma
+- C#
