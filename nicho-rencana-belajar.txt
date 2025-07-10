@@ -1,6 +1,7 @@
 Rencana Belajar Nicho
 - JavaScript
-  * React JS
-  * Node JS
+ * Framework
 - Strucktur Data & Algoritma
+- PHP
+ * Framework
 - C#
