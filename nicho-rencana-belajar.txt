@@ -1,7 +1,11 @@
 Rencana Belajar Nicho
 - JavaScript
  * Framework
+    ^ Angular
+    ^ Vue
 - Strucktur Data & Algoritma
 - PHP
  * Framework
+    ^ Laravel
 - C#
+- Python
