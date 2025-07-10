@@ -1,6 +1,8 @@
 Rencana Belajar Nicho
 - JavaScript
  * Framework
+    ^ React
+    ^ Node JS
     ^ Angular
     ^ Vue
 - Strucktur Data & Algoritma
